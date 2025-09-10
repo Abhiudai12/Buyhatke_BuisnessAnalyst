@@ -44,7 +44,7 @@ Suggested validation techniques (precision, recall, confusion matrix).
 1.Clone the repository:
 git clone https://github.com/Abhiudai12/Buyhatke_BuisnessAnalyst.git  --> cd Buyhatke_BuisnessAnalyst
 
-2.Open the Jupyter Notebook for Python analysis.
+2.Open the Jupyter Notebook or VS Code for Python analysis.
 
 3.Excel file can be opened directly in MS Excel or Google Sheets.
 
