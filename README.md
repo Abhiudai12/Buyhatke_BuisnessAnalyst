@@ -17,6 +17,9 @@ Built visualizations showing trends in demand, pricing, and performance.
 📌 Deliverables: Section1_WorkBook.xlsx, Section1_Report.pdf
 
 ## Section 2 – Python Analysis
+![Pareto 80/20 effect](images/pareto.png)
+
+![Sales](images/transaction.png)
 
 Performed exploratory data analysis (EDA) on the Audio transactions dataset using Pandas, NumPy, Matplotlib, Seaborn.
 
