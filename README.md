@@ -5,6 +5,8 @@ This repository contains my solutions for the Business Analyst Intern Assignment
 The tasks evaluate analytical, problem-solving, and data-handling skills across Excel, Python, and analytical reasoning.
 
 ## Section 1 – Excel Analysis
+![Excel- Dashboard](buyhatke_dashboard.png)
+
 
 Cleaned and organized the iPhone sales dataset.
 
